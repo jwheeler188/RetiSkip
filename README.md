@@ -1,5 +1,7 @@
 # RetiSkip
 
+Demo Site: a6eaa98af0f97579edcfc83c39a72f0c:/page/retiskip.mu
+
 HF band conditions for your NomadNet node. RetiSkip adds a ready-made page showing day and night band ratings, solar flux, sunspots, and geomagnetic activity, refreshed automatically and served from a cache so it loads instantly over the mesh.
 
 Here's roughly what visitors see. In a NomadNet client, the ratings are colored green, yellow, and red:
